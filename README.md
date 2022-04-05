@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Nagarro
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working @ Nagarro
+- 🌱 I’m currently learning node.js 
 - 👯 I’m looking to collaborate on Frontend technologies
-- 🤔 I’m looking for help with React 
+- 🤔 I’m looking for help with Go 
 - 💬 Ask me about anything
 - 😄 Pronouns: He/him
-<!-- ⚡ Fun fact: -->
 
